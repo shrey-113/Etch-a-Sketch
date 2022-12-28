@@ -1,0 +1,30 @@
+* {
+    background-color: cyan;
+}
+
+.hovered {
+    background-color: black;
+} 
+
+#maindiv {
+    background-color: wheat;
+    padding: 3px;
+    align-content: center;
+}
+
+.scribble {
+    background-color: white;
+    height: 6px;
+    width: 6px;
+    display: inline-block;
+}
+
+.rows {
+    margin: 0px;
+    height: 6px;
+    align-content: center;
+}
+
+.drawn {
+    background-color: black;
+}
